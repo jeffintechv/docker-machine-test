@@ -1,5 +1,7 @@
 # docker-machine-test
 
+use python 3.9
+
 ## Components
 
 - frontend :- It's a api driven flask app
